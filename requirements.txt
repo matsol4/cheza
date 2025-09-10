@@ -1,0 +1,9 @@
+aiogram==2.25.2
+python-dotenv
+openai
+pydub
+SpeechRecognition
+gTTS
+yandex-speechkit
+Pillow 
+edge-tts
